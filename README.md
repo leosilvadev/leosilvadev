@@ -41,13 +41,63 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
   </tbody>
 </table>
 
+## Other technologies I have worked with
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/kafka.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/airflow.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vert.x_Logo.svg/1200px-Vert.x_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://avatars1.githubusercontent.com/u/6407041?s=400&v=4">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/presto.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+
+# Currently working on
 
 - 💻 [Static GTFS Api](https://github.com/leosilvadev/static-gtfs-api)
 
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+# My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=leosilvadev&show_icons=true&hide_border=true)
