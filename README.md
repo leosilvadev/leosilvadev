@@ -34,7 +34,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTi9oT6_1rvNKpmth96ejPxgKu7S34BqKav5g&usqp=CAU">
       </td>
       <td width="25%" align="center">
