@@ -11,34 +11,30 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/scala.svg">
+        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/scala.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
-  </tbody>
-</table>
-
-## Languages that I worked with in the past
-
-<table>
-  <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="50%" align="center">
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTi9oT6_1rvNKpmth96ejPxgKu7S34BqKav5g&usqp=CAU">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1200px-Groovy-logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/perl.svg">
+        <img height="64px" width="25%" src="https://avatars0.githubusercontent.com/u/1481354?s=400&v=4g">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/perl.svg">
       </td>
     </tr>
   </tbody>
