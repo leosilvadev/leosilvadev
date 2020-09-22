@@ -5,7 +5,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
 
 **[WE ARE HIRING!](https://mobimeo.com/en/join/)**
 
-## Languages that I am currently working with (both at job and personal projects)
+## Languages which I have had experience with (both at job and personal projects)
 
 <table>
   <tbody>
