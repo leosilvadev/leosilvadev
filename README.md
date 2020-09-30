@@ -55,7 +55,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
         <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -69,7 +69,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
         <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/spring.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://avatars1.githubusercontent.com/u/6407041?s=400&v=4">
+        <img height="64px" src="https://avatars1.githubusercontent.com/u/6407041?s=400&v=4">
       </td>
     </tr>
     <tr valign="top">
@@ -83,7 +83,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
         <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/presto.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/redis.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
       </td>
     </tr>
   </tbody>
