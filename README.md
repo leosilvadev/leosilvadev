@@ -28,7 +28,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1200px-Groovy-logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://avatars0.githubusercontent.com/u/1481354?s=400&v=4g">
+        <img height="64px" src="https://avatars0.githubusercontent.com/u/1481354?s=400&v=4g">
       </td>
       <td width="25%" align="center">
         <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/python.svg">
@@ -46,13 +46,13 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vert.x_Logo.svg/1200px-Vert.x_Logo.svg.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vert.x_Logo.svg/1200px-Vert.x_Logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/kafka.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/kafka.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/docker.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/kubernetes.svg">
@@ -77,7 +77,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
         <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/presto.svg">
