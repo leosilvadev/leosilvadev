@@ -94,7 +94,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
 
 # Currently working on
 
-- 💻 [Static GTFS Api](https://github.com/leosilvadev/static-gtfs-api)
+- 💻 [Kafka Workshops](https://github.com/leosilvadev/KafkaWorkshops)
 
 
 # My Stats
