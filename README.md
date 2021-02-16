@@ -94,7 +94,7 @@ Senior Software Engineer - Data Team @ [Mobimeo](https://mobimeo.com/en/)
 
 # Currently working on
 
-- 💻 [Kafka Workshops](https://github.com/leosilvadev/KafkaWorkshops)
+- 💻  [Kafka Workshops](https://github.com/leosilvadev/KafkaWorkshops)
 
 
 # My Stats
