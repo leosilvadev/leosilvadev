@@ -7,20 +7,20 @@ Head of Backend @ [Vivy](https://vivy.com/)
 
 ## Languages which I have had experience with (both at job and personal projects)
 
-<table>
+<table style="table-layout: auto; width: 100%;">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/scala.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/scala.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/kotlin.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -31,10 +31,10 @@ Head of Backend @ [Vivy](https://vivy.com/)
         <img height="64px" src="https://avatars0.githubusercontent.com/u/1481354?s=400&v=4g">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/perl.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/perl.svg">
       </td>
     </tr>
   </tbody>
