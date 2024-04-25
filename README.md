@@ -92,7 +92,7 @@ Head of Engineering | Backend & SRE @ [Vivy](https://vivy.com/)
 
 # Currently working on
 
-- 💻  [Kafka Workshops](https://github.com/leosilvadev/KafkaWorkshops)
+- 💻  [Course - Building a traffic monitoring platform with Java]([https://github.com/leosilvadev/KafkaWorkshops](https://github.com/leosilvadev/course_traffic_management_system)) [YouTube](https://www.youtube.com/watch?v=tDh2Fs89_8E&list=PLnqG5UkoFcrEwA9vhbXBoaAF42oQbRwna&index=2)
 
 
 # My Stats
