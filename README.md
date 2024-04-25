@@ -1,9 +1,7 @@
 # Hello, I am Leo!
 
 
-Head of Backend @ [Vivy](https://vivy.com/)
-
-**[WE ARE HIRING!](https://vivy.jobs.personio.de/?language=en)**
+Head of Engineering | Backend & SRE @ [Vivy](https://vivy.com/)
 
 ## Languages which I have had experience with (both at job and personal projects)
 
