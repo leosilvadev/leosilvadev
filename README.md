@@ -1,7 +1,7 @@
 # Hello, I am Leo!
 
 
-Head of Engineering | Backend & SRE @ [Vivy](https://vivy.com/)
+Head of Engineering @ [onGRID](https://myongrid.com/)
 
 ## Languages which I have had experience with (both at job and personal projects)
 
